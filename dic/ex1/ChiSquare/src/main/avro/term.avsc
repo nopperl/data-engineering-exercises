@@ -1,0 +1,10 @@
+{"type": "record",
+ "name": "Term",
+ "fields": [
+     {"name": "value",  "type": "string"},
+     {"name": "num_docs_in_category",  "type": "int"},
+     {"name": "num_docs_in_category_without",  "type": "int"},
+     {"name": "num_docs",  "type": "int"},
+     {"name": "num_docs_without",  "type": "int"}
+ ]
+}

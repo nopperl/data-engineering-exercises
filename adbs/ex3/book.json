@@ -1,0 +1,26 @@
+{
+    "_id": "",
+    "id": "3",
+    "name": "Fundamentals of Database Systems",
+    "authors": "Elmasri, Navathe",
+    "editions": [
+        {
+            "edition": 7,
+            "year": 2017,
+            "isbn": "1292097612",
+            "owned": 1
+        },
+        {
+            "edition": 6,
+            "year": 2010,
+            "isbn": "0136086209",
+            "owned": 2
+        },
+        {
+            "edition": 2,
+            "year": 1994,
+            "isbn": "0805317481",
+            "owned": 6
+        }
+    ]
+}
